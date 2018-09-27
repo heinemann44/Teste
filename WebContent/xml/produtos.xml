@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista_de_produtos>
+<produto>
+  <id>1</id>
+  <nome>caneta</nome>
+  <codigo>1318</codigo>
+  <preco>10.50</preco>
+  <quantidade>10</quantidade>
+</produto>
+<produto>
+  <id>2</id>
+  <nome>lapiz</nome>
+  <codigo>4409</codigo>
+  <preco>6.50</preco>
+  <quantidade>15</quantidade>
+</produto>
+<produto>
+  <id>3</id>
+  <nome>borracha</nome>
+  <codigo>4628</codigo>
+  <preco>1.50</preco>
+  <quantidade>100</quantidade>
+</produto>
+<produto>
+  <id>4</id>
+  <nome>penal</nome>
+  <codigo>4430</codigo>
+  <preco>20</preco>
+  <quantidade>2</quantidade>
+</produto>
+<produto>
+  <id>5</id>
+  <nome>caneta azul</nome>
+  <codigo>1318</codigo>
+  <preco>8.50</preco>
+  <quantidade>20</quantidade>
+</produto>
+</lista_de_produtos>
